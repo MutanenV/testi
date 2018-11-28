@@ -17,3 +17,5 @@ tein hienoja muutoksia selaimessa
 gut gid eben leben
 
 ja nyt tein muutoksia visual studiossa
+
+visual code tekstiä
