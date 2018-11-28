@@ -10,4 +10,8 @@ EBIN
 21321
 321
 git gud
+
+
+
+tein hienoja muutoksia selaimessa
 gut gid eben leben
